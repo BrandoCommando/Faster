@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, FasterActivity!</string>
+	<string name="app_name">Faster</string>
+	<string name="foreground_service_started">&quot;Foreground service started&quot;</string>
+	<string name="local_service_label">Faster Service</string>
+</resources>
